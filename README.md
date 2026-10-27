@@ -1,28 +1,27 @@
-## Hi there 👋
+# Hi, I'm Prince Kumar 👋
 
-- I am Prince Kumar pursuing B.Tech. at NIT Raipur in Metallurgical and Materials Engineering.
+🎓 Metallurgical & Materials Engineering undergraduate at NIT Raipur, India.
 
-- I am currently learning fundamentals of Metallurgical and Materials Engineering.
+I'm building my foundation in metallurgy, mathematics, Python, and data analytics, with an interest in applying computational tools to materials engineering problems.
 
-![](https://github.com/favicon.ico)
+### Currently learning
+- ⚙️ Physical Metallurgy and Materials Science
+- 🐍 Python for scientific computing and data analysis
+- 📊 Data analysis, visualization, and SQL
+- 🔬 Computational Metallurgy and materials data
 
+### Areas of interest
+- Metallurgy and Materials Engineering
+- Materials characterization and phase diagrams
+- Scientific computing and engineering data analysis
+- Research-oriented projects and problem-solving
 
+### Tech stack
+- **Languages:** Python, SQL
+- **Tools:** Git, GitHub, Excel
+- **Libraries:** NumPy, pandas, Matplotlib (learning)
 
+### Connect with me
+- LinkedIn: https://www.linkedin.com/in/prince-kumar-nitrr/
 
-
-
-
-<!--
-**pk-628996/pk-628996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning by building projects, strengthening fundamentals, and documenting my progress.
